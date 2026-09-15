@@ -24,4 +24,4 @@
 
 ## 既有專案(已經有程式碼)怎麼套用這套架構
 
-Template 只在**建立新 repo** 那一刻有用,既有 repo 沒辦法事後套用。這種情況要手動搬：複製這裡的 `.claude/`、`CLAUDE.md` 的通用段落、`standards/`,再把既有程式碼搬進 `systems/<name>/src/`,寫一份系統專屬的 `CLAUDE.md`——比照 [`claude_code`](https://github.com/sorrywilsonh/claude_code) repo 實際做過的方式。
+Template 只在**建立新 repo** 那一刻有用,既有 repo 沒辦法事後套用。這種情況要手動搬：複製這裡的 `.claude/`、`CLAUDE.md` 的通用段落、`standards/`,再把既有程式碼搬進 `systems/<name>/src/`,寫一份系統專屬的 `CLAUDE.md`——比照 [`TWSE_projects`](https://github.com/sorrywilsonh/TWSE_projects) repo 實際做過的方式。
